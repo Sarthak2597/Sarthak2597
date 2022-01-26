@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-This is Sarthak Hajirnis from India. I have done my M.Sc. in Physics and looking for ways to integrate two of my life-long passions: Physics and Machine Learning.
+This is Sarthak Hajirnis from India. I have done my M.Sc. in Physics and looking forjobs in the field of Data Analytics.
 
-- 🔭 I’m currently working on Data Science, Machine Learning and Physics Informed Neural Networks
--  👯 I’m looking to collaborate on some projects involved in simulations of physical world, solving differential equations using ML and a lot more cool stuff.
+- 🔭 I’m currently working as a Research Assistant at the Institute of Science, Mumbai.
+-  👯 I’m looking to start my career in the field of Data Analytics, where I can make use of my quantitative skills in disovering patters in data.
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarthak-hajirnis-5454b3148/), [Github](https://github.com/Sarthak2597/Sarthak2597).
 
 ### Some tech I know:
